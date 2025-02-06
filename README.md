@@ -43,7 +43,14 @@ Welcome to the **Impossible Missions Force (IMF) Gadget API**! This API is desig
 | GET    | `/gadgets?status={status}`| Retrieve gadgets filtered by status.                                        |
 | POST   | `/gadgets`                | Add a new gadget with a unique codename.                                    |
 | PATCH  | `/gadgets/{id}`           | Update an existing gadget's information.                                    |
-| DELETE | `/gadgets/{id}`           | Decommission a gadget (marks it as "Decommissioned" with a timestamp).      |
+| DELETE | `/gadgets/{id}`           | Decommission a gadget (marks it as "Decommissioned" with a 
+timestamp).      |
+## Login
+![login](images/image.png)
+## Avilable gadgets
+![available](images/image-1.png)
+## Update gadgets
+![update](images/image-2.png)
 
 ### **Self-Destruct Endpoint**
 
