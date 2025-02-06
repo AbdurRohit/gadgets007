@@ -27,7 +27,7 @@ Welcome to the **Impossible Missions Force (IMF) Gadget API**! This API is desig
 
 - **Backend**: Node.js, Express
 - **Database**: PostgreSQL
-- **ORM**: Sequelize
+- **ORM**: Prisma
 - **Authentication**: JWT
 - **Deployment**: Render
 
