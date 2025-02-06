@@ -59,7 +59,7 @@ timestamp).      |
 | POST   | `/gadgets/{id}/self-destruct`     | Trigger the self-destruct sequence for a specific gadget.                   |
 
 ---
-
+![self-destruct](images/image.png)
 ## **Setup Instructions**
 
 ### **Prerequisites**
