@@ -32,7 +32,7 @@ Welcome to the **Impossible Missions Force (IMF) Gadget API**! This API is desig
 - **Deployment**: Render
 
 ---
-
+![auth-paper-dfd](images/image.png)
 ## **API Endpoints**
 
 ### **Gadget Endpoints**
@@ -46,7 +46,7 @@ Welcome to the **Impossible Missions Force (IMF) Gadget API**! This API is desig
 | DELETE | `/gadgets/{id}`           | Decommission a gadget (marks it as "Decommissioned" with a 
 timestamp).      |
 ## Login
-![login](images/image.png)
+![login](images/image0.png)
 ## Avilable gadgets
 ![available](images/image-1.png)
 ## Update gadgets
@@ -59,7 +59,7 @@ timestamp).      |
 | POST   | `/gadgets/{id}/self-destruct`     | Trigger the self-destruct sequence for a specific gadget.                   |
 
 ---
-![self-destruct](images/image.png)
+![self-destruct](images/image002.png)
 ## **Setup Instructions**
 
 ### **Prerequisites**
