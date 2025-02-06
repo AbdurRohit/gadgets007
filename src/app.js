@@ -9,8 +9,6 @@ dotenv.config();
 const app = express();
 app.use(express.json());
 
-// Apply authentication middleware to all routes
-
 
 connectDB();
 

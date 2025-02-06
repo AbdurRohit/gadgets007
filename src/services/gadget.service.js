@@ -42,8 +42,6 @@ export class GadgetService {
   }
 
   static async selfDestruct(id, confirmationCode) {
-    // In a real system, you'd verify the confirmation code
-    // For demo purposes, we'll accept any non-empty code
     if (!confirmationCode) {
       throw new Error('Confirmation code required');
     }
